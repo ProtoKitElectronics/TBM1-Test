@@ -1,0 +1,4 @@
+[submodule "core"]
+	path = core
+	url = git@github.com:ProtoKitElectronics/TBM1.git
+	branch = python

@@ -2,3 +2,6 @@
 	path = core
 	url = git@github.com:ProtoKitElectronics/TBM1.git
 	branch = python
+[submodule "driver"]
+	path = driver
+	url = git@github.com:ProtoKitElectronics/tbm1-driver-py.git
